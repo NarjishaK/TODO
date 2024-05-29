@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed on your system:
     npm start
     ```
 
-    The server will be running on http://localhost:7001.
+    The server will be running on http://localhost:8001.
 
 6. **Start the Client (Nest.js API)**
 
