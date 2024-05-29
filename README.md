@@ -64,7 +64,7 @@ Before you begin, ensure you have the following installed on your system:
 
     ```bash
     cd client
-    npm run start:dev
+    npm run dev
     ```
 
     The client (Nest.js API) will be running on http://localhost:3000.
